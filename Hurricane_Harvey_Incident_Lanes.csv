@@ -1,0 +1,469 @@
+,TXDOT_LANES_AFFECTED,MAINLANES_BLOCKED,FRONTAGE_LANES_BLOCKED,RAMP_LANES_BLOCKED,HOV_LANES_BLOCKED,SHOULDER_LANES_BLOCKED
+0,Alternate Lanes,0,3,0,0,0
+1,Alternate Lanes,0,0,1,0,0
+2,Alternate Lanes,0,3,0,0,0
+3,Alternate Lanes,0,0,1,0,0
+4,Alternate Lanes,0,3,0,0,0
+5,Alternate Lanes,0,3,0,0,0
+6,Alternate Lanes,0,0,1,0,0
+7,All Main Lanes,0,0,0,0,0
+8,All Main Lanes,0,0,0,0,0
+9,Alternate Lanes,0,4,0,0,0
+10,Alternate Lanes,0,4,0,0,0
+11,Alternate Lanes,0,4,1,0,0
+12,Alternate Lanes,0,0,0,0,0
+13,All Main Lanes,0,0,0,0,0
+14,All Main Lanes,0,0,0,0,0
+15,Alternate Lanes,0,0,0,0,0
+16,Alternate Lanes,0,0,1,0,0
+17,Alternate Lanes,0,0,0,0,0
+18,Alternate Lanes,0,0,0,0,2
+19,All Main Lanes,0,0,2,0,0
+20,Alternate Lanes,0,3,0,0,0
+21,Alternate Lanes,0,3,0,0,0
+22,Alternate Lanes,0,4,0,0,0
+23,Alternate Lanes,0,2,0,0,0
+24,Alternate Lanes,0,3,0,0,0
+25,Alternate Lanes,0,2,0,0,0
+26,Alternate Lanes,0,0,1,0,0
+27,Alternate Lanes,0,0,1,0,0
+28,Alternate Lanes,0,0,1,0,0
+29,Alternate Lanes,0,0,0,0,0
+30,Alternate Lanes,0,3,0,0,0
+31,Alternate Lanes,0,0,0,0,0
+32,Alternate Lanes,0,0,0,0,0
+33,Alternate Lanes,0,3,0,0,0
+34,Alternate Lanes,0,3,0,0,0
+35,Alternate Lanes,0,3,0,0,0
+36,Alternate Lanes,0,3,0,0,0
+37,Alternate Lanes,0,0,1,0,0
+38,All Main Lanes,0,0,0,0,0
+39,All Main Lanes,0,0,0,0,0
+40,All Main Lanes,0,0,0,0,0
+41,All Main Lanes,0,0,0,0,0
+42,All Main Lanes,0,0,0,0,0
+43,Alternate Lanes,0,0,0,0,0
+44,Alternate Lanes,0,0,0,0,0
+45,All Main Lanes,0,0,0,0,0
+46,All Main Lanes,0,0,0,0,0
+47,All Main Lanes,0,0,0,0,0
+48,All Main Lanes,0,0,0,0,0
+49,All Main Lanes,0,0,0,0,0
+50,Alternate Lanes,0,0,0,0,0
+51,Alternate Lanes,0,0,0,0,0
+52,Alternate Lanes,0,0,0,0,0
+53,All Main Lanes,0,0,0,0,0
+54,All Main Lanes,0,0,0,0,0
+55,All Main Lanes,0,0,0,0,0
+56,Alternate Lanes,0,0,0,0,0
+57,All Main Lanes,0,0,0,0,0
+58,All Main Lanes,0,0,0,0,0
+59,All Main Lanes,0,0,0,0,0
+60,All Main Lanes,0,0,0,0,0
+61,All Main Lanes,0,0,0,0,0
+62,Alternate Lanes,0,0,0,0,0
+63,Alternate Lanes,0,0,0,0,0
+64,All Main Lanes,0,0,0,0,0
+65,All Main Lanes,0,0,0,0,0
+66,All Main Lanes,0,0,0,0,0
+67,Alternate Lanes,0,0,0,0,0
+68,All Main Lanes,0,3,0,0,0
+69,Alternate Lanes,0,0,0,0,0
+70,All Main Lanes,0,0,0,0,0
+71,All Main Lanes,0,0,0,0,0
+72,All Main Lanes,0,0,0,0,0
+73,All Main Lanes,0,0,0,0,0
+74,All Main Lanes,0,0,0,0,0
+75,All Main Lanes,0,0,0,0,0
+76,Alternate Lanes,0,0,0,0,0
+77,All Main Lanes,0,0,0,0,0
+78,All Main Lanes,0,0,0,0,0
+79,All Main Lanes,0,0,0,0,0
+80,Alternate Lanes,0,0,0,0,0
+81,Alternate Lanes,0,0,0,0,0
+82,All Main Lanes,0,0,0,0,0
+83,Alternate Lanes,1,0,0,0,0
+84,All Main Lanes,0,0,0,0,0
+85,All Main Lanes,0,0,0,0,0
+86,All Main Lanes,0,0,0,0,0
+87,All Main Lanes,0,0,0,0,0
+88,Alternate Lanes,0,0,1,0,0
+89,Alternate Lanes,0,4,1,0,0
+90,Alternate Lanes,0,0,1,0,0
+91,Alternate Lanes,0,4,1,0,0
+92,Alternate Lanes,0,0,1,0,0
+93,Alternate Lanes,0,4,1,0,0
+94,Alternate Lanes,0,4,1,0,0
+95,Alternate Lanes,1,0,0,0,0
+96,Alternate Lanes,0,0,0,0,2
+97,Alternate Lanes,0,0,1,0,0
+98,Alternate Lanes,0,0,1,0,0
+99,Alternate Lanes,0,0,1,0,0
+100,All Main Lanes,0,0,0,0,0
+101,Alternate Lanes,0,0,1,0,0
+102,Alternate Lanes,0,0,1,0,0
+103,Alternate Lanes,0,0,1,0,0
+104,All Main Lanes,0,0,1,0,0
+105,All Main Lanes,0,0,1,0,0
+106,Alternate Lanes,0,0,1,0,0
+107,Alternate Lanes,0,4,1,0,0
+108,Alternate Lanes,0,0,1,0,0
+109,Alternate Lanes,0,0,0,0,0
+110,Alternate Lanes,0,3,0,0,0
+111,Alternate Lanes,0,3,0,0,0
+112,All Main Lanes,0,0,0,0,0
+113,All Main Lanes,0,0,0,0,0
+114,All Main Lanes,0,0,0,0,0
+115,Alternate Lanes,2,0,0,0,1
+116,All Main Lanes,0,0,0,0,0
+117,All Main Lanes,0,3,0,0,0
+118,All Main Lanes,0,3,0,0,0
+119,All Main Lanes,0,3,0,0,0
+120,All Main Lanes,0,3,0,0,0
+121,All Main Lanes,0,3,0,0,0
+122,Alternate Lanes,0,0,1,0,0
+123,Alternate Lanes,0,0,1,0,0
+124,Alternate Lanes,0,3,0,0,0
+125,Alternate Lanes,0,2,0,0,0
+126,Alternate Lanes,0,0,1,0,0
+127,Alternate Lanes,0,3,0,0,0
+128,Alternate Lanes,0,3,0,0,0
+129,Alternate Lanes,0,0,0,0,0
+130,Alternate Lanes,1,0,0,0,0
+131,Alternate Lanes,0,3,0,0,0
+132,Alternate Lanes,0,3,0,0,0
+133,All Main Lanes,0,0,0,0,0
+134,All Main Lanes,0,0,0,0,0
+135,All Main Lanes,0,0,0,0,0
+136,All Main Lanes,0,0,0,0,0
+137,All Main Lanes,0,0,0,0,0
+138,All Main Lanes,0,0,0,0,0
+139,All Main Lanes,0,0,0,0,0
+140,All Main Lanes,0,0,0,0,0
+141,All Main Lanes,0,0,0,0,0
+142,All Main Lanes,0,0,0,0,0
+143,All Main Lanes,0,0,0,0,0
+144,Alternate Lanes,0,1,0,0,0
+145,Alternate Lanes,0,3,0,0,0
+146,Alternate Lanes,0,0,0,0,0
+147,All Main Lanes,0,0,0,0,0
+148,All Main Lanes,0,0,0,0,0
+149,All Main Lanes,0,0,0,0,0
+150,Alternate Lanes,0,0,0,0,2
+151,All Main Lanes,0,0,0,0,0
+152,All Main Lanes,0,0,0,0,0
+153,Alternate Lanes,0,3,0,0,0
+154,Alternate Lanes,0,3,0,0,0
+155,Alternate Lanes,0,3,0,0,0
+156,Alternate Lanes,0,3,0,0,0
+157,All Main Lanes,0,0,0,0,0
+158,Alternate Lanes,2,4,0,0,0
+159,Alternate Lanes,1,4,0,0,0
+160,Alternate Lanes,3,3,1,0,0
+161,Alternate Lanes,0,1,0,0,0
+162,Alternate Lanes,0,3,1,0,0
+163,Alternate Lanes,0,3,1,0,0
+164,Alternate Lanes,0,3,0,0,0
+165,Alternate Lanes,0,2,0,0,0
+166,Alternate Lanes,0,2,0,0,0
+167,Alternate Lanes,0,3,1,0,0
+168,Alternate Lanes,0,3,0,0,0
+169,All Main Lanes,0,0,0,0,0
+170,All Main Lanes,0,0,0,0,0
+171,All Main Lanes,0,3,0,0,0
+172,All Main Lanes,0,3,0,0,0
+173,Alternate Lanes,0,3,0,0,0
+174,Alternate Lanes,0,3,0,0,0
+175,All Main Lanes,0,0,0,0,0
+176,Alternate Lanes,0,3,0,0,0
+177,All Main Lanes,0,3,0,0,0
+178,Alternate Lanes,3,0,0,0,0
+179,All Main Lanes,0,0,0,0,0
+180,Alternate Lanes,0,0,1,0,0
+181,Alternate Lanes,0,3,0,0,0
+182,All Main Lanes,0,0,0,0,0
+183,Alternate Lanes,0,3,0,0,0
+184,Alternate Lanes,0,3,0,0,0
+185,Alternate Lanes,0,3,0,0,0
+186,Alternate Lanes,0,2,0,0,0
+187,Alternate Lanes,0,3,0,0,0
+188,Alternate Lanes,0,3,0,0,0
+189,Alternate Lanes,0,3,0,0,0
+190,Alternate Lanes,0,3,0,0,0
+191,Alternate Lanes,0,3,0,0,0
+192,Alternate Lanes,0,3,0,0,0
+193,All Main Lanes,0,0,0,0,0
+194,Alternate Lanes,1,0,0,0,1
+195,Alternate Lanes,1,0,0,0,1
+196,Alternate Lanes,0,3,1,0,0
+197,Alternate Lanes,0,1,0,0,0
+198,Alternate Lanes,2,0,0,0,0
+199,Alternate Lanes,0,3,0,0,0
+200,Alternate Lanes,0,4,0,0,0
+201,Alternate Lanes,0,0,0,0,0
+202,Alternate Lanes,0,3,0,0,0
+203,Alternate Lanes,2,0,0,0,1
+204,Alternate Lanes,0,2,0,0,0
+205,Alternate Lanes,0,3,0,0,0
+206,Alternate Lanes,0,3,0,0,0
+207,Alternate Lanes,0,3,0,0,0
+208,Alternate Lanes,0,3,0,0,0
+209,Alternate Lanes,0,0,0,0,0
+210,Alternate Lanes,0,0,0,0,0
+211,Alternate Lanes,0,3,0,0,0
+212,Alternate Lanes,0,3,0,0,0
+213,Alternate Lanes,0,3,0,0,0
+214,Alternate Lanes,0,0,0,0,0
+215,Alternate Lanes,0,0,1,0,0
+216,Alternate Lanes,0,0,1,0,0
+217,All Main Lanes,0,0,0,0,0
+218,All Main Lanes,0,0,0,0,0
+219,All Main Lanes,0,0,0,0,0
+220,All Main Lanes,0,0,0,0,0
+221,Alternate Lanes,0,0,1,0,0
+222,Alternate Lanes,0,0,1,0,0
+223,Alternate Lanes,0,3,0,0,0
+224,Alternate Lanes,0,3,0,0,0
+225,All Main Lanes,0,0,0,0,0
+226,Alternate Lanes,0,3,0,0,0
+227,All Main Lanes,0,3,0,0,0
+228,All Main Lanes,0,3,0,0,0
+229,Alternate Lanes,0,3,0,0,0
+230,Alternate Lanes,0,3,0,0,0
+231,Alternate Lanes,0,3,0,0,0
+232,Alternate Lanes,0,3,0,0,0
+233,Alternate Lanes,0,3,0,0,0
+234,Alternate Lanes,0,3,0,0,0
+235,Alternate Lanes,0,3,0,0,0
+236,Alternate Lanes,0,3,0,0,0
+237,All Main Lanes,0,0,1,0,0
+238,Alternate Lanes,0,4,0,0,0
+239,Alternate Lanes,0,2,0,0,0
+240,Alternate Lanes,0,0,0,0,0
+241,Alternate Lanes,0,3,0,0,0
+242,Alternate Lanes,0,4,0,0,0
+243,Alternate Lanes,0,3,0,0,0
+244,All Main Lanes,0,0,0,0,0
+245,Alternate Lanes,0,4,0,0,0
+246,Alternate Lanes,0,3,0,0,0
+247,All Main Lanes,0,0,0,0,0
+248,All Main Lanes,0,0,0,0,0
+249,Alternate Lanes,0,3,0,0,0
+250,All Main Lanes,0,3,0,0,0
+251,All Main Lanes,0,0,0,0,0
+252,Alternate Lanes,0,3,0,0,0
+253,All Main Lanes,0,0,0,0,0
+254,All Main Lanes,0,0,0,0,0
+255,All Main Lanes,0,0,0,0,0
+256,Alternate Lanes,0,0,1,0,0
+257,Alternate Lanes,0,1,0,0,0
+258,Alternate Lanes,0,1,0,0,0
+259,Alternate Lanes,0,2,0,0,0
+260,Alternate Lanes,0,0,0,0,0
+261,Alternate Lanes,0,4,0,0,0
+262,Alternate Lanes,0,0,0,0,0
+263,Alternate Lanes,0,3,0,0,0
+264,All Main Lanes,0,1,0,0,0
+265,Alternate Lanes,0,2,0,0,0
+266,Alternate Lanes,0,3,0,0,0
+267,Alternate Lanes,0,3,0,0,0
+268,All Main Lanes,0,0,0,0,0
+269,All Main Lanes,0,0,0,0,0
+270,Alternate Lanes,0,3,0,0,0
+271,Alternate Lanes,0,4,0,0,0
+272,All Main Lanes,0,0,0,0,0
+273,All Main Lanes,0,0,0,0,0
+274,Alternate Lanes,2,0,0,0,1
+275,Alternate Lanes,0,3,0,0,0
+276,Alternate Lanes,0,3,0,0,0
+277,Alternate Lanes,0,3,0,0,0
+278,Alternate Lanes,0,3,0,0,0
+279,Alternate Lanes,0,3,0,0,0
+280,Alternate Lanes,0,4,0,0,0
+281,Alternate Lanes,0,4,0,0,0
+282,Alternate Lanes,0,2,0,0,0
+283,Alternate Lanes,2,0,0,0,1
+284,Alternate Lanes,0,0,0,0,0
+285,All Main Lanes,0,0,1,0,0
+286,Alternate Lanes,3,0,0,0,1
+287,Alternate Lanes,3,0,0,0,1
+288,Alternate Lanes,0,3,0,0,0
+289,All Main Lanes,0,0,0,0,0
+290,Alternate Lanes,0,0,0,0,0
+291,All Main Lanes,0,0,0,0,0
+292,Alternate Lanes,2,0,0,0,0
+293,Alternate Lanes,2,0,0,0,0
+294,Alternate Lanes,1,0,0,0,0
+295,All Main Lanes,0,0,0,0,0
+296,Alternate Lanes,0,3,0,0,0
+297,Alternate Lanes,0,3,0,0,0
+298,Alternate Lanes,0,3,0,0,0
+299,Alternate Lanes,0,3,0,0,0
+300,Alternate Lanes,0,3,0,0,0
+301,All Main Lanes,0,0,0,0,0
+302,All Main Lanes,0,0,0,0,0
+303,Alternate Lanes,2,0,0,0,0
+304,Alternate Lanes,0,0,1,0,0
+305,Alternate Lanes,0,2,0,0,0
+306,Alternate Lanes,0,0,0,0,0
+307,Alternate Lanes,0,0,1,0,0
+308,Alternate Lanes,0,2,0,0,0
+309,All Main Lanes,0,0,0,0,0
+310,Alternate Lanes,0,0,1,0,0
+311,Alternate Lanes,0,2,0,0,0
+312,Alternate Lanes,0,2,0,0,0
+313,Alternate Lanes,0,3,0,0,0
+314,Alternate Lanes,0,3,0,0,0
+315,Alternate Lanes,0,3,0,0,0
+316,All Main Lanes,0,0,0,0,0
+317,All Main Lanes,0,0,0,0,0
+318,Alternate Lanes,0,3,0,0,0
+319,Alternate Lanes,0,2,0,0,0
+320,Alternate Lanes,0,0,0,0,0
+321,Alternate Lanes,2,0,0,0,0
+322,Alternate Lanes,0,3,0,0,0
+323,Alternate Lanes,0,3,2,0,0
+324,Alternate Lanes,0,3,0,0,0
+325,Alternate Lanes,0,0,0,0,0
+326,All Main Lanes,0,0,0,0,0
+327,All Main Lanes,0,0,0,0,0
+328,All Main Lanes,0,0,0,0,0
+329,All Main Lanes,0,0,0,0,0
+330,Alternate Lanes,0,0,0,0,0
+331,Alternate Lanes,0,0,0,0,0
+332,All Main Lanes,0,0,0,0,0
+333,All Main Lanes,0,0,0,0,0
+334,All Main Lanes,0,0,0,0,0
+335,All Main Lanes,0,0,0,0,0
+336,Alternate Lanes,0,0,0,0,0
+337,Alternate Lanes,0,0,0,0,0
+338,All Main Lanes,0,0,0,0,0
+339,All Main Lanes,0,0,0,0,0
+340,All Main Lanes,0,0,0,0,0
+341,All Main Lanes,0,0,0,0,0
+342,Alternate Lanes,0,0,0,0,0
+343,Alternate Lanes,1,0,0,0,1
+344,Alternate Lanes,1,0,0,0,1
+345,All Main Lanes,0,0,0,0,0
+346,All Main Lanes,0,0,0,0,0
+347,All Main Lanes,0,0,0,0,0
+348,All Main Lanes,0,0,0,0,0
+349,All Main Lanes,0,0,0,0,0
+350,All Main Lanes,0,0,0,0,0
+351,All Main Lanes,0,0,0,0,0
+352,Alternate Lanes,0,0,0,0,0
+353,Alternate Lanes,0,2,0,0,0
+354,Alternate Lanes,0,2,0,0,0
+355,Alternate Lanes,0,0,1,0,0
+356,Alternate Lanes,0,0,0,0,0
+357,All Main Lanes,0,0,0,0,0
+358,Alternate Lanes,0,0,0,0,0
+359,All Main Lanes,0,0,0,0,0
+360,Alternate Lanes,0,3,0,0,0
+361,Alternate Lanes,0,3,0,0,0
+362,Alternate Lanes,0,3,0,0,0
+363,Alternate Lanes,0,3,0,0,0
+364,All Main Lanes,0,0,0,0,0
+365,All Main Lanes,0,0,0,0,0
+366,All Main Lanes,0,0,0,0,0
+367,Alternate Lanes,2,0,1,1,2
+368,Alternate Lanes,0,0,1,0,0
+369,Alternate Lanes,0,0,1,0,0
+370,Alternate Lanes,0,0,1,0,0
+371,Alternate Lanes,1,0,1,0,0
+372,Alternate Lanes,0,0,1,0,0
+373,Alternate Lanes,0,0,1,0,0
+374,Alternate Lanes,0,0,1,0,0
+375,Alternate Lanes,0,0,1,0,0
+376,Alternate Lanes,0,0,1,0,0
+377,Alternate Lanes,0,0,1,0,0
+378,Alternate Lanes,0,0,0,0,2
+379,Alternate Lanes,0,0,1,0,0
+380,Alternate Lanes,0,0,1,0,0
+381,Alternate Lanes,0,3,1,0,2
+382,Alternate Lanes,0,4,2,0,2
+383,Alternate Lanes,0,4,2,0,2
+384,Alternate Lanes,0,0,1,0,0
+385,Alternate Lanes,0,0,1,0,0
+386,Alternate Lanes,0,4,0,0,2
+387,Alternate Lanes,0,4,2,0,2
+388,Alternate Lanes,0,4,2,0,2
+389,Alternate Lanes,0,0,1,0,0
+390,Alternate Lanes,0,0,1,0,0
+391,Alternate Lanes,0,3,0,0,0
+392,Alternate Lanes,0,0,1,0,0
+393,Alternate Lanes,0,0,1,0,0
+394,Alternate Lanes,0,0,1,0,0
+395,Alternate Lanes,0,0,1,0,0
+396,Alternate Lanes,0,0,1,0,0
+397,Alternate Lanes,0,0,1,0,0
+398,Alternate Lanes,0,0,1,0,0
+399,Alternate Lanes,0,0,1,0,0
+400,Alternate Lanes,0,0,1,0,0
+401,Alternate Lanes,0,0,1,0,0
+402,Alternate Lanes,0,0,1,0,0
+403,Alternate Lanes,0,0,1,0,0
+404,Alternate Lanes,0,0,1,0,0
+405,Alternate Lanes,0,0,1,0,0
+406,Alternate Lanes,0,0,1,0,0
+407,Alternate Lanes,0,0,1,0,0
+408,Alternate Lanes,0,0,1,0,0
+409,Alternate Lanes,0,0,1,0,0
+410,Alternate Lanes,1,0,0,0,1
+411,Alternate Lanes,0,0,1,0,0
+412,Alternate Lanes,0,4,1,0,0
+413,Alternate Lanes,0,0,1,0,0
+414,Alternate Lanes,0,0,0,0,0
+415,Alternate Lanes,0,0,1,0,0
+416,All Main Lanes,0,0,0,0,0
+417,All Main Lanes,0,0,0,0,0
+418,Alternate Lanes,0,0,1,0,0
+419,Alternate Lanes,2,0,1,0,0
+420,Alternate Lanes,0,0,1,0,0
+421,Alternate Lanes,4,0,1,0,2
+422,All Main Lanes,0,0,0,0,0
+423,Alternate Lanes,0,0,1,0,0
+424,Alternate Lanes,0,0,1,0,0
+425,Alternate Lanes,0,0,0,0,2
+426,Alternate Lanes,0,0,0,0,2
+427,Alternate Lanes,0,0,1,0,0
+428,Alternate Lanes,0,0,1,0,0
+429,Alternate Lanes,0,0,1,0,0
+430,Alternate Lanes,0,0,0,0,0
+431,Alternate Lanes,3,0,0,0,1
+432,All Main Lanes,0,1,0,0,0
+433,Alternate Lanes,0,1,0,0,0
+434,Alternate Lanes,0,0,0,0,2
+435,All Main Lanes,0,0,0,0,0
+436,Alternate Lanes,0,0,1,0,0
+437,All Main Lanes,0,0,2,0,0
+438,Alternate Lanes,2,0,0,0,0
+439,Alternate Lanes,0,0,0,0,2
+440,All Main Lanes,0,0,0,0,0
+441,All Main Lanes,0,0,0,0,0
+442,All Main Lanes,0,0,0,0,0
+443,Alternate Lanes,2,0,0,0,0
+444,Alternate Lanes,1,0,0,0,0
+445,Alternate Lanes,0,1,0,0,0
+446,Alternate Lanes,0,3,0,0,0
+447,Alternate Lanes,0,3,0,0,0
+448,Alternate Lanes,0,3,0,0,0
+449,All Main Lanes,0,0,0,0,0
+450,All Main Lanes,0,0,0,0,0
+451,Alternate Lanes,0,3,0,0,0
+452,All Main Lanes,0,0,0,0,0
+453,All Main Lanes,0,0,0,0,0
+454,All Main Lanes,0,0,0,0,0
+455,All Main Lanes,0,0,0,0,0
+456,All Main Lanes,0,0,0,0,0
+457,Alternate Lanes,0,0,0,0,0
+458,All Main Lanes,0,0,0,0,0
+459,All Main Lanes,0,0,0,0,0
+460,All Main Lanes,0,0,0,0,0
+461,Alternate Lanes,0,0,1,0,0
+462,Alternate Lanes,0,0,1,0,0
+463,Alternate Lanes,0,0,1,0,0
+464,Alternate Lanes,0,0,1,0,0
+465,Alternate Lanes,0,0,1,0,0
+466,Alternate Lanes,0,0,1,0,0
+467,Alternate Lanes,2,0,1,0,2
